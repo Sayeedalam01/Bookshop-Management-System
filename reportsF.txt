@@ -6,3 +6,4 @@ added task - salesman - view Invoice Details
 added task - Admin – Sales on Specific Day
 added task- Salesman – Clear Cart After Sale
 added task- Admin – Today’s Profit
+added task - salesman - Password Change Confirmation
