@@ -5,3 +5,5 @@ Added - salesman generate invoice
 Added - admin view sales report 
 
 Added - Salesman – Search Books
+
+Added - Admin – View Invoice Details
