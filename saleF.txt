@@ -15,3 +15,5 @@ Added - Salesman – Clear Cart After Sale
 Added - Salesman – Cart Total & Remove Items
 
 Added - Admin – Monthly Profit
+
+Added - Admin – Sales by Period
