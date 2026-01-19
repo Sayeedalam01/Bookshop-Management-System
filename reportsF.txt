@@ -1,1 +1,3 @@
-added salesman view invoice reports
+this file is for reports code - 
+
+added task - salesman confirm sale
