@@ -1,0 +1,23 @@
+This file is for sale codes -
+
+Added - salesman generate invoice
+
+Added - admin view sales report 
+
+Added - Salesman – Search Books
+
+Added - Admin – View Invoice Details
+
+Added - Admin – Top Selling Products
+
+Added - Salesman – Clear Cart After Sale
+
+Added - Salesman – Cart Total & Remove Items
+
+Added - Admin – Monthly Profit
+
+Added - Admin – Sales by Period
+
+Added - Admin – Low Stock Items Page
+
+Added - Salesman – Add Books to Cart
