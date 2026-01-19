@@ -17,3 +17,5 @@ Added - Salesman – Cart Total & Remove Items
 Added - Admin – Monthly Profit
 
 Added - Admin – Sales by Period
+
+Added - Admin – Low Stock Items Page
