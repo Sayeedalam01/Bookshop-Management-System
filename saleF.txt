@@ -8,4 +8,6 @@ Added - Salesman – Search Books
 
 Added - Admin – View Invoice Details
 
-Addee - Admin – Top Selling Products
+Added - Admin – Top Selling Products
+
+Added - Salesman – Clear Cart After Sale
