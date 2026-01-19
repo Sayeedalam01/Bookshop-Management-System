@@ -13,3 +13,5 @@ Added - Admin – Top Selling Products
 Added - Salesman – Clear Cart After Sale
 
 Added - Salesman – Cart Total & Remove Items
+
+Added - Admin – Monthly Profit
