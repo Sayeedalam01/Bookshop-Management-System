@@ -3,3 +3,5 @@ This file is for sale codes -
 Added - salesman generate invoice
 
 Added - admin view sales report 
+
+Added - Salesman – Search Books
