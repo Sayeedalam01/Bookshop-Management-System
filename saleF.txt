@@ -19,3 +19,5 @@ Added - Admin – Monthly Profit
 Added - Admin – Sales by Period
 
 Added - Admin – Low Stock Items Page
+
+Added - Salesman – Add Books to Cart
