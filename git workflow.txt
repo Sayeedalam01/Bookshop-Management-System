@@ -1,0 +1,56 @@
+Git Workflow for Bookshop Management System
+
+1. **Start with the Main Branch**
+   - Before starting any work, ensure that the `main` branch is up-to-date:
+   ```bash
+   git checkout main
+   git pull origin main
+   ```
+
+2. **Create Feature Branches**
+   - Each member creates a feature branch for their assigned task:
+   ```bash
+   git checkout -b feature-<task-name>
+   ```
+
+3. **Work on Your Assigned Tasks**
+   - Edit the necessary files related to your task.
+   - Stage and commit your changes:
+   ```bash
+   git status
+   git add .
+   git commit -m "Implemented <task-name>"
+   ```
+
+4. **Push Your Feature Branch to GitHub**
+   - Push the feature branch to GitHub once changes are committed:
+   ```bash
+   git push origin feature-<task-name>
+   ```
+
+5. **Pull Latest Changes Regularly**
+   - Before starting new work, pull the latest changes from `main`:
+   ```bash
+   git checkout main
+   git pull origin main
+   git checkout feature-<task-name>
+   git merge main
+   ```
+
+6. **Create Pull Requests (PRs)**
+   - After completing a feature, create a pull request on GitHub:
+     - Base: `main`
+     - Compare: Your feature branch (`feature-<task-name>`)
+
+7. **Code Review and Merge (Team Leader)**
+   - The Team Leader reviews the code and merges the pull request into `main`.
+
+8. **Pull the Latest Changes After Merge**
+   - Once the PR is merged, pull the latest changes from `main`:
+   ```bash
+   git checkout main
+   git pull origin main
+   ```
+
+9. **Repeat the Process**
+   - Continue working on your features and follow the same process for each task.
